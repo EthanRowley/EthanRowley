@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EthanRowley
-- 👀 I’m interested in ... Web Development & Software Development 
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ... Im still learning 
+- 👀 I’m interested in ... Mobile Development & Software Development 
+- 🌱 I’m currently learning ... Flutter C++
 - 📫 How to reach me ...
 ethanrowley7@icloud.com
 
