@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im currently working on Java spring and Javascript.
+Computer Science student at University in Uk.
+Currently studying Java Spring and using Javascript to create backend projects.
 
 
 ## 🌐 Socials:
